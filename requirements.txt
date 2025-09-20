@@ -1,0 +1,6 @@
+flask
+werkzeug
+deepface
+mtcnn
+pillow
+numpy
